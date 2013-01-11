@@ -1,0 +1,2 @@
+This code shows some qubit operations on mathematica. This code requires the package availabe at http://homepage.cem.itesm.mx/lgomez/quantum/index.htm 
+On more details on the code kindly see http://aaditya.info/blog/2012/08/qubit-operations-and-quantum-measurement-in-mathematica/
